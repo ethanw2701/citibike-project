@@ -1,0 +1,6 @@
+202608-citibike-tripdata/
+*.zip
+*.csv
+*.pdf
+.DS_Store
+.ipynb_checkpoints/
